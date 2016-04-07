@@ -1,9 +1,12 @@
 [submodule "austinmayo.com"]
 	path = austinmayo.com
 	url = git@github.com:R3dSoxRule15/austinmayo.com.git
+	branch = stable
 [submodule "CYBSec.austinmayo.com"]
 	path = CYBSec.austinmayo.com
 	url = git@github.com:R3dSoxRule15/CYBSec.austinmayo.com.git
+	branch = stable
 [submodule "emulator.austinmayo.com"]
 	path = emulator.austinmayo.com
 	url = git@github.com:R3dSoxRule15/emulator.austinmayo.com.git
+	branch = stable
